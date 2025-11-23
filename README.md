@@ -1,7 +1,4 @@
 # Business Analyst Portfolio
-
-First project uploaded: Root Cause Analysis Report  
-More files and case studies will be added soon as the portfolio is being developed.
 Project: Escalation Workflow Root-Cause Analysis & Redesign
 
 This project analyzes rising escalation trends in a contact center environment and proposes a redesigned workflow to reduce escalation volume, shorten resolution time, and improve customer satisfaction.
